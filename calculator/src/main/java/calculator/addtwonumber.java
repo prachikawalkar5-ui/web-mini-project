@@ -8,7 +8,7 @@ public class addtwonumber {
 		e=d+a+b+c;
 		System.out.println(e);
 		System.out.println("I am Jaynthi");
-
+		System.out.println("i am tintu");
 	}
 
 }
