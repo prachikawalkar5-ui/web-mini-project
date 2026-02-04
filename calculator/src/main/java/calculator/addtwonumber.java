@@ -8,8 +8,11 @@ public class addtwonumber {
 		e=d+a+b+c;
 		System.out.println(e);
 		c=b-c;
-		System.out.println("ans+"c);
+		System.out.println(c);
 		System.out.println("I am shreelatha");
+		c=a*b;
+		System.out.println(c);
+		
 
 	}
 
