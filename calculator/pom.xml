@@ -5,10 +5,9 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.pres.add</groupId>
+  <groupId>calculator</groupId>
   <artifactId>calculator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>calculator</name>
 
   <properties>
       <maven.compiler.source>1.8</maven.compiler.source>
@@ -17,7 +16,7 @@
 
   <build>
       <plugins>
-          
+
           <!-- Compiler Plugin -->
           <plugin>
               <groupId>org.apache.maven.plugins</groupId>
@@ -33,7 +32,7 @@
               <configuration>
                   <archive>
                       <manifest>
-                          <mainClass>com.pres.add.Calculator</mainClass>
+                          <mainClass>addtwonumber</mainClass>
                       </manifest>
                   </archive>
               </configuration>
