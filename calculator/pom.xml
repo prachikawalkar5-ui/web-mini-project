@@ -32,7 +32,7 @@
               <configuration>
                   <archive>
                       <manifest>
-                          <mainClass>addtwonumber</mainClass>
+                          <mainClass>calculator.addtwonumber</mainClass>
                       </manifest>
                   </archive>
               </configuration>
