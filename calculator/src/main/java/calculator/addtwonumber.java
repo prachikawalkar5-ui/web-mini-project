@@ -9,9 +9,10 @@ public class addtwonumber {
 		System.out.println(e);
 		c=b-c;
 		System.out.println(c);
-		System.out.println("I am shreelatha and Prachi here");
 		c=a*b;
 		System.out.println(c);
+		System.out.println("This is CI/CD lab);
+		
 		
 
 	}
