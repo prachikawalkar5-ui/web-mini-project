@@ -11,7 +11,7 @@ public class addtwonumber {
 		System.out.println(c);
 		c=a*b;
 		System.out.println(c);
-		System.out.println("This is CI/CD lab);
+		System.out.println("This is CI/CD lab");
 		
 		
 
